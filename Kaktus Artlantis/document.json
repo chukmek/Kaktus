@@ -32,8 +32,7 @@
     "version": 95
   },
   "pages": [
-    "Page 1",
-    "Page 2"
+    "Page 1"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

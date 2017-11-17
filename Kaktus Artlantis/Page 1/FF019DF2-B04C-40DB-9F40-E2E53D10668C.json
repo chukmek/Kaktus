@@ -26,7 +26,7 @@
     "y": 81
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -39,16 +39,8 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "853D6BD0-7AB4-4BEB-B6A0-B642075918C8"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "C66B1BE3-EA66-4580-B867-66F219D83A87"
-    }
   ],
   "name": "Artboard",
   "nameIsFixed": false,

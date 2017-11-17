@@ -1,0 +1,125 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "488EE36D-38D1-48DE-8744-124A06B0C587",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 350,
+    "width": 840,
+    "x": -283,
+    "y": -70
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "950AB498-A867-4C63-8770-684A08A97543"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "37CCEA19-DDA4-471A-8FF2-05FB27147A58"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0887D84E-C7CB-4C7B-B58B-C8685FED59EF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "120243CD-5AB6-4AC4-B4AD-63AD67453799"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B123D863-E6DD-4D41-9E9C-F462E6EE9997"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CA19638B-B31C-4400-B0B0-75E75097F9E0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "075804B7-6EA8-4CC5-BE68-54D886D372C9"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 60,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 10,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": true,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 840
+  },
+  "name": "Artboard",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.edenvidal.states-for-sketch": {
+      "x-states-current-state": {
+        "UUID": "E2619CF0-BF79-4610-BB0F-D8525D8179DF",
+        "title": "Initial State"
+      },
+      "x-states-default-state": {
+        "UUID": "E2619CF0-BF79-4610-BB0F-D8525D8179DF",
+        "title": "Initial State"
+      },
+      "x-states-states": [
+        {
+          "UUID": "E2619CF0-BF79-4610-BB0F-D8525D8179DF",
+          "title": "Initial State"
+        }
+      ]
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
